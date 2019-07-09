@@ -1,0 +1,20 @@
+body{
+    background-color: #D38312;
+}
+.container{
+    margin-top: 20px;
+}
+.col-sm-4{
+    margin-top: 56px;
+}
+.col-sm-8{
+    padding:10px;
+}
+.col-sm-8 .btn-danger{
+    padding:5px;
+    margin-left: 10px;
+}
+.list-group .list-group-item {
+    font-style: sans-serif;
+    font-size: 20px;
+}
