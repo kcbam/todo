@@ -56,7 +56,7 @@ class ToDoList extends React.Component {
                     Add
                   </button>
               </div>
-              <div className="col-sm-8">
+              <div className="col-sm-8" id="newclass">
                   <ul className="list-group list-group-flush">
                     {this.state.list.map(item => {
                       return(
